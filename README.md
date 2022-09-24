@@ -1,4 +1,6 @@
 # ios-gyroscope-app!
 
+使用Xcode編寫
 
-(https://user-images.githubusercontent.com/109416633/192101409-3b6f4fc5-5cfb-4e3e-a2b4-97f19d1f334b.png)
+![a](https://user-images.githubusercontent.com/109416633/192101449-81897b1f-cd49-42f3-b062-f693a958ae4c.png)
+
